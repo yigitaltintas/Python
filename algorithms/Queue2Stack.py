@@ -23,6 +23,7 @@ class Queue2Stack(object):
 
         return self.stack2.pop()
 
+
 queue = Queue2Stack()
 queue.enqueue("1")
 queue.enqueue("2")
